@@ -14,7 +14,8 @@ gruvbox-light-blue
 gruvbox-light-rainbow  
 <img src="png/gruvbox-light-rainbow.png" width="500">
 
-For more NixOS artwork, 
+For more NixOS artwork, check out the [official NixOS artwork
+repository](https://github.com/NixOS/nixos-artwork)
 
 ## Credits
 
