@@ -3,7 +3,7 @@
 Gruvbox-inspired NixOS logo desktop wallpapers.
 
 For more colourschemes and customisability, see the follow-up project
-[nix-wallpaper](https://github.com/lunik1/nixos-logo-gruvbox-wallpaper).
+[nix-wallpaper](https://github.com/lunik1/nix-wallpaper).
 
 gruvbox-dark-blue  
 <img src="png/gruvbox-dark-blue.png" width="500">
@@ -23,7 +23,7 @@ repository](https://github.com/NixOS/nixos-artwork).
 ## Credits
 
 [NixOS Logo](https://github.com/NixOS/nixos-artwork/tree/master/logo) designed
-by Tim Cuthbertson (@timbertson)
+by Tim Cuthbertson (@timbertson).
 
 Design based on NixOS Nord Wallpaper by
 [/u/saae](https://www.reddit.com/user/saae).
