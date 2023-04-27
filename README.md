@@ -2,6 +2,9 @@
 
 Gruvbox-inspired NixOS logo desktop wallpapers.
 
+For more colourschemes and customisability, see the follow-up project
+[nix-wallpaper](https://github.com/lunik1/nixos-logo-gruvbox-wallpaper).
+
 gruvbox-dark-blue  
 <img src="png/gruvbox-dark-blue.png" width="500">
 
